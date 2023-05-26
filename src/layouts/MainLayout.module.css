@@ -1,0 +1,9 @@
+.mainWrapper {
+    display: grid;
+    grid-template-columns: 1fr; /* розміри для бічної панелі та основного блоку */
+    grid-template-rows: 70px 1fr; /* розміри для заголовка та основного блоку */
+    grid-template-areas:
+    "header"
+    "some-content";
+    height: 100vh;
+}

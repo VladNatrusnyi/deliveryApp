@@ -1,0 +1,13 @@
+.listWrapper li {
+    border: 1px solid #00e5ff;
+    margin-bottom: 10px;
+    padding: 5px;
+    list-style: none;
+    border-radius: 10px;
+}
+
+.listWrapper li:hover {
+    cursor: pointer;
+    background: #00e5ff;
+    color: white;
+}

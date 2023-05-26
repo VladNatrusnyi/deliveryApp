@@ -1,0 +1,45 @@
+.wrapper {
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #00e5ff;
+    background: white;
+    margin-bottom: 10px;
+}
+
+.wrapper:hover {
+    cursor: pointer;
+    background: #00e5ff;
+    color: white;
+}
+
+.wrapper.active {
+    background: #00acc1;
+    border: 1px solid #00acc1;
+    color: white;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper {
+        padding: 20px;
+        border-radius: 10px;
+        border: 1px solid #00e5ff;
+        background: white;
+        margin-bottom: 10px;
+        color: black;
+    }
+
+    .wrapper:hover {
+        cursor: pointer;
+        background: #00e5ff;
+        color: white;
+    }
+
+    .wrapper.active {
+        background: #00acc1;
+        border: 1px solid #00acc1;
+        color: white;
+        font-weight: bold;
+    }
+
+}

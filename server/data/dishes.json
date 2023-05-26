@@ -1,0 +1,152 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "restaurantId": "1",
+      "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР МЕНЮ",
+      "img": "mac1",
+      "price": 258
+    },
+    {
+      "id": "2",
+      "restaurantId": "1",
+      "name": "БІГ ТЕЙСТІ МЕНЮ",
+      "img": "mac2",
+      "price": 230
+    },
+    {
+      "id": "3",
+      "restaurantId": "1",
+      "name": "БІГ ТЕЙСТІ",
+      "img": "mac3",
+      "price": 180
+    },
+    {
+      "id": "4",
+      "restaurantId": "1",
+      "name": "БІГ МАК",
+      "img": "mac4",
+      "price": 115
+    },
+    {
+      "id": "5",
+      "restaurantId": "1",
+      "name": "ЧІКЕН РОЛ",
+      "img": "mac5",
+      "price": 105
+    },
+
+    {
+      "id": "6",
+      "restaurantId": "2",
+      "name": "Піца Італійська",
+      "img": "kpiza1",
+      "price": 210
+    },
+    {
+      "id": "7",
+      "restaurantId": "2",
+      "name": "Піца Цезар",
+      "img": "kpiza2",
+      "price": 300
+    },
+    {
+      "id": "8",
+      "restaurantId": "2",
+      "name": "Піца З Лососем",
+      "img": "kpiza3",
+      "price": 180
+    },
+    {
+      "id": "9",
+      "restaurantId": "2",
+      "name": "Піца Карбонара",
+      "img": "kpiza4",
+      "price": 215
+    },
+
+
+
+    {
+      "id": "10",
+      "restaurantId": "3",
+      "name": "Комбо-меню Фірмове",
+      "img": "puzhata1",
+      "price": 228
+    },
+    {
+      "id": "11",
+      "restaurantId": "3",
+      "name": "Салат-фреш Цезар з лососем",
+      "img": "puzhata2",
+      "price": 150
+    },
+    {
+      "id": "12",
+      "restaurantId": "3",
+      "name": "Салат-фреш Грецький",
+      "img": "puzhata3",
+      "price": 130
+    },
+    {
+      "id": "13",
+      "restaurantId": "3",
+      "name": "Салат Цезар з куркою",
+      "img": "puzhata4",
+      "price": 116
+    },
+    {
+      "id": "14",
+      "restaurantId": "3",
+      "name": "Котлета по-київськи класична",
+      "img": "puzhata5",
+      "price": 96
+    },
+    {
+      "id": "15",
+      "restaurantId": "3",
+      "name": "Торт з еклерами цілий",
+      "img": "puzhata6",
+      "price": 215
+    },
+
+
+
+
+    {
+      "id": "16",
+      "restaurantId": "4",
+      "name": "Дабл чікен меню",
+      "img": "kfc1",
+      "price": 215
+    },
+    {
+      "id": "17",
+      "restaurantId": "4",
+      "name": "Чізбургер Делюкс меню",
+      "img": "kfc2",
+      "price": 310
+    },
+    {
+      "id": "18",
+      "restaurantId": "4",
+      "name": "Шефбургер меню",
+      "img": "kfc3",
+      "price": 180
+    },
+    {
+      "id": "19",
+      "restaurantId": "4",
+      "name": "Чізбургер Джуніор меню",
+      "img": "kfc4",
+      "price": 280
+    },
+    {
+      "id": "20",
+      "restaurantId": "4",
+      "name": "Ай-твістер сирний меню",
+      "img": "kfc5",
+      "price": 116
+    }
+  ]
+}

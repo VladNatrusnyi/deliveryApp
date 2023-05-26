@@ -1,0 +1,37 @@
+{
+  "restaurants": [
+    {
+      "name": "McDonald`s",
+      "id": "1",
+      "coordinates": {
+        "lat": 50.44143949999999,
+        "lng": 30.4895392
+      }
+    },
+    {
+      "name": "Kyiv Pizza",
+      "id": "2",
+      "coordinates": {
+        "lat": 50.4005242,
+        "lng": 30.6322168
+      }
+    },
+    {
+      "name": "Puzata Hata",
+      "id": "3",
+      "coordinates": {
+        "lat": 50.4374633,
+        "lng": 30.51569039999999
+      }
+    },
+    {
+      "name": "KFC",
+      "id": "4",
+      "coordinates": {
+        "lat": 50.4485106,
+        "lng": 30.52337889999999
+      }
+    }
+  ]
+}
+
