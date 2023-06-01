@@ -9,7 +9,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
 
 const nawLinks = [
   { to: '/', title: 'Shop'},
-  { to: '/cart', title: 'Shopping cart', badge: true},
+  { to: 'cart', title: 'Shopping cart', badge: true},
   // { to: '/history', title: 'History'},
   // { to: '/coupons', title: 'Coupons'},
 ]

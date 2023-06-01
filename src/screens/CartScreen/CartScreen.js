@@ -134,9 +134,9 @@ export const CartScreen = () => {
           </div>
           <div className={styles.controlPanel}>
             <div>
-              <Button variant="outlined" size="small">
-                coupons
-              </Button>
+              {/*<Button variant="outlined" size="small">*/}
+              {/*  coupons*/}
+              {/*</Button>*/}
             </div>
             <div className={styles.btnBlock}>
               <div className={styles.price} >TOTAL price: {totalPrice} UAN</div>
